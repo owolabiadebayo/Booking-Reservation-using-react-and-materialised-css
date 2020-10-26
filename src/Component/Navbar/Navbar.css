@@ -1,0 +1,11 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.brand-logo{
+  font-style: italic;
+  font-style: 2rem;
+  font-weight: 700;
+}

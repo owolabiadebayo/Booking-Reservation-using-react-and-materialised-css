@@ -1,0 +1,53 @@
+{
+  "paris":[{
+    "img":1,
+    "model":"toyota",
+    "Amount":"CFA 2500"
+
+  },
+  {
+    "img":2,
+    "model":"range-rover",
+    "Amount":"CFA 5500"
+
+  },
+  {
+    "img":3,
+    "model":"G-wagon",
+    "Amount":"CFA 7500"
+  }
+],
+  "Manchester":[{
+    "img":1,
+    "model":"toyota",
+    "Amount":"Euro 2500"
+
+  },
+  {
+    "img":2,
+    "model":"range-rover",
+    "Amount":"Euro 5500"
+
+  },
+  {
+    "img":3,
+    "model":"G-wagon",
+    "Amount":"Euro 7500"
+  }
+],
+  "Ado-Ekiti":[{
+    "model":"toyota",
+    "Amount":"NGA 2500"
+
+  },
+  {
+    "model":"range-rover",
+    "Amount":"NGA 5500"
+
+  },
+  {
+    "model":"G-wagon",
+    "Amount":"NGA 7500"
+  }
+]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "ImgLocation": "./img/1.jpg",
+    "Weather": "..Sunny Day",
+    "Country": "France",
+    "location": "Paris",
+    "CheckInDate": ""
+  },
+  {
+    "Id": 3,
+    "ImgLocation": "./img/6.jpg",
+    "Weather": "..Cloudy",
+    "Country": "Nigeria",
+    "location": "Ado-Ekiti",
+    "CheckInDate": ""
+  },
+  {
+    "Id": 4,
+    "ImgLocation": "./img/3.jpg",
+    "Weather": "sunny",
+    "Country": "USA",
+    "location": "Texas",
+    "CheckInDate": ""
+  }
+]

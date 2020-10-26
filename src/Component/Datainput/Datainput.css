@@ -1,0 +1,21 @@
+img{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.datacard{
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  border-bottom-left-radius: 10%;
+  border-top-right-radius: 10%;
+  border: 2px solid #000000;
+  background-color: rgb(21,101,192,0.7);
+  cursor: pointer;
+}
+.datacard-content{
+  width: 30vw;
+}
